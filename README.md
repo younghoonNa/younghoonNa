@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=tokyonight)](https://github.com/younghoonNa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=swift)](https://github.com/younghoonNa/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
 
