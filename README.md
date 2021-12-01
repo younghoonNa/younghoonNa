@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh07282828&layout=compact)](https://github.com/yh07282828/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhe226&layout=compact)](https://github.com/jhe226/github-readme-stats)
+
 
 <!---
 younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
