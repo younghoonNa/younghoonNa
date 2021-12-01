@@ -10,10 +10,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%2379C83D&title_bg=%23555555&icon=fifa.svg&icon_color=%2300FFB2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh07282828&layout=compact)](https://github.com/yh07282828/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhe226&layout=compact)](https://github.com/jhe226/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonNa&layout=compact)](https://github.com/younghoonNa/github-readme-stats)
 
 <!---
 younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
