@@ -40,3 +40,9 @@ DACON 펭귄 몸무계 예측하기 (6위 / 260) _private, top 4% <br>
 younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+티스토리 -> 하루의 공부내용 적어두는곳 볼 거 없음 놀러오지 마셈.
+https://187cm.tistory.com/manage/posts/
+
+
