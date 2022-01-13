@@ -84,6 +84,3 @@ https://187cm.tistory.com/manage/posts/
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa)](https://github.com/younghoonNa/github-readme-stats)
-
-
