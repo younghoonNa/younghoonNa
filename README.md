@@ -7,6 +7,14 @@
 
 ---
 
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
+
+
+
+---
+
 경력&경험
 
 2018년도 Sw week 교내 동아리 전시회 부분 (스마트 홈 / 아두이노) 인기상 3등 <br>
