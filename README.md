@@ -5,6 +5,7 @@
 
 ### Welcome My Space!
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
 Hi there, I'm [younghoonNa](https://github.com/younghoonNa)
 <!-- a Repulic of korea  -->
 I'm currently studying at a university in Chuncheon.
@@ -16,7 +17,7 @@ I'm currently studying at a university in Chuncheon.
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ---
 
