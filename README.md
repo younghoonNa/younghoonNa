@@ -12,8 +12,7 @@ Hi there, I'm [younghoonNa](https://github.com/younghoonNa)
 I'm currently studying at a university in Chuncheon.
 
 
-
-- 🌱 Interesting on [Devops](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
+- 🌱 Interesting on [finance](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
 
 ---
