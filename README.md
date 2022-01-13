@@ -5,7 +5,7 @@
 
 ### Welcome My Space!
 
-Hi there, I'm [younghoonNa](https://github.com/younghoonNa/resume), a Repulic of korea   
+Hi there, I'm [younghoonNa](https://github.com/younghoonNa), a Repulic of korea   
 I'm currently study in Seoul.
 
 - 🌱 Interesting on [Devops](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
