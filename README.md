@@ -1,7 +1,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7)](https://github.com/younghoonNa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=younghoonNa&theme=flat&column=7)](https://github.com/younghoonNa/github-profile-trophy)
 
 
 ---
