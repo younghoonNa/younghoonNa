@@ -37,6 +37,7 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 
 경력&경험
 
+
 2018년도 Sw week 교내 동아리 전시회 부분 (스마트 홈 / 아두이노) 인기상 3등 <br>
 2019년도 2학기 교내 학술동아리 씨애랑 아두이노 멘토링 <br>
 2020 ~ 2021 5공병여단 통신병<br>
@@ -51,7 +52,12 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 
 DACON 펭귄 몸무계 예측하기 (6위 / 260) _private, top 4% <br>
 
-2021년도 2학기 한림대 대표 KUSF 전국 대학생 축구대회 출전. <br>
+:soccer:
+2017년 서울시 교육감배 교육지원청 리그 준우승 <br>
+2021년 KUSF 전국 대학생 축구대회 출전. <br>
+
+⚾
+2014-2016 태릉중 야구 교육봉사 및 코치 <br>
 
 ---
 
