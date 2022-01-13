@@ -1,9 +1,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=younghoonNa&theme=flat&column=7)](https://github.com/younghoonNa/github-profile-trophy)
-
-
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -50,6 +47,9 @@ DACON 펭귄 몸무계 예측하기 (6위 / 260) _private, top 4% <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonNa&layout=compact)](https://github.com/younghoonNa/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=younghoonNa&theme=flat&column=7)](https://github.com/younghoonNa/github-profile-trophy)
+
 
 ## Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
