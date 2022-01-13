@@ -52,11 +52,11 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 
 DACON 펭귄 몸무계 예측하기 (6위 / 260) _private, top 4% <br>
 
-:soccer:
+### :soccer:
 2017년 서울시 교육감배 교육지원청 리그 준우승 <br>
 2021년 KUSF 전국 대학생 축구대회 출전. <br>
-
-⚾
+ 
+### ⚾ 
 2014-2016 태릉중 야구 교육봉사 및 코치 <br>
 
 ---
