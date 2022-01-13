@@ -38,6 +38,7 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 경력&경험
 
 
+### 💻 & 🏫 
 2018년도 Sw week 교내 동아리 전시회 부분 (스마트 홈 / 아두이노) 인기상 3등 <br>
 2019년도 2학기 교내 학술동아리 씨애랑 아두이노 멘토링 <br>
 2020 ~ 2021 5공병여단 통신병<br>
