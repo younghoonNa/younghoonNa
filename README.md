@@ -46,7 +46,7 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 2021년도 2학기 교과목 멘토링 C/알고리즘 멘토 <br>
 2021년도 2학기 SW-Week R-언어 동상 <br>
 2021년도 2학기 23학점 평균 4.5 <br>
-2021년도 2학기 빅데이터 개론 과목 1등 <br>
+<! -- 2021년도 2학기 빅데이터 개론 과목 1등 <br>  -->
 2021년도 삼성 멀티캠퍼스 데이터 분석 56H 교육 수료 <br>
 
 DACON 펭귄 몸무계 예측하기 (6위 / 260) _private, top 4% <br>
