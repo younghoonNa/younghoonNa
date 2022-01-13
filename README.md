@@ -14,8 +14,8 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 
 - 🌱 Interesting on [finance](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
-- :e-mail: Mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
--  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
 
 ---
 
