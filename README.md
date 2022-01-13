@@ -1,6 +1,16 @@
 
 ---
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
+
+### Welcome My Space!
+
+Hi there, I'm [younghoonNa](https://github.com/younghoonNa/resume), a Repulic of korea   
+I'm currently study in Seoul.
+
+- 🌱 Interesting on [Devops](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
+- 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
+
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
