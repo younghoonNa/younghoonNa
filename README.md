@@ -2,13 +2,16 @@
 
 ---
 
+## Git Status
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younghoonNa&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=younghoonNa&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=younghoonNa&theme=default)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=default)
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=younghoonNa&theme=default) -->
+- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
+
 ---
 
 ## Hi, there👋👋 Welcome My Space
@@ -89,11 +92,6 @@ DACON 영화 리뷰 감성분석 (30위 / 327) private, top 10% <br>
 2014-2016 태릉중 야구 교육봉사 및 코치 <br>
 
 ---
-
-## More Git Status
-
-- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
-
 
 ## Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
