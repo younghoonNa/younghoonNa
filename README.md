@@ -12,7 +12,18 @@
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
 
+---
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center">
+ 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+ 
+</p>
 ---
 
 ## Git Status
@@ -25,24 +36,6 @@
 
 - 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 
-
-
----
-
-## Preferred Language
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-<!-- 
-![](https://raw.githubusercontent.com/younghoonNa/younghoonNa/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/younghoonNa/younghoonNa/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/younghoonNa/younghoonNa/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/younghoonNa/younghoonNa/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/younghoonNa/younghoonNa/master/profile-summary-card-output/solarized/4-productive-time.svg)
- -->
- 
 ---
 
 ## Interest 👀
