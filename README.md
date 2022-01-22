@@ -1,7 +1,7 @@
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣Hi, there👋👋 Welcome My Space&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
 
 ---
 
