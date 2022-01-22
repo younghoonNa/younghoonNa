@@ -1,20 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=🐤🐥🐣&fontAlign=80&fontAlignY=30&desc=%20%20%20%20%20Hi,%20there👋👋%20Welcome%20My%20Space&color=gradient)
 
----
-
-## Git Status
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younghoonNa&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=younghoonNa&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=younghoonNa&theme=default)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=default)
-
-- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
-
----
-
-## Hi, there👋👋 Welcome My Space
+<!-- ## Hi, there👋👋 Welcome My Space-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -27,6 +13,21 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
+
+
+---
+
+## Git Status
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younghoonNa&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=younghoonNa&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=younghoonNa&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=default)
+
+- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
+
+
 
 ---
 
