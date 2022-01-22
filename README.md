@@ -90,7 +90,10 @@ DACON 영화 리뷰 감성분석 (30위 / 327) private, top 10% <br>
 
 ---
 
-## Git Status
+## More Git Status
+
+- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
 
