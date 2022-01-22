@@ -17,20 +17,17 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Preferred Language</p>
-
+<!-- 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) -->
 
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp;
+
+  <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
-<!--   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) &nbsp;
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) &nbsp; -->
+
  <br>
   
 </p>
