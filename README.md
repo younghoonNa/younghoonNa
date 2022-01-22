@@ -33,7 +33,7 @@
   
  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>&nbsp;
  ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
- ![Fiance](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=Cash App&logoColor=white)</a>&nbsp;
+ ![Fiance](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=CashspaceApp&logoColor=white)</a>&nbsp;
  <br>
  
 </div>
