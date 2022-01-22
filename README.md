@@ -1,5 +1,4 @@
-
----
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🐤🐥🐣!&fontAlign=80&fontAlignY=40&desc=desc%20ss&color=gradient)
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
 
