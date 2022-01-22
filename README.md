@@ -7,6 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=younghoonNa&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=younghoonNa&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=react)](https://github.com/younghoonNa/github-readme-stats)
 
 ---
 
