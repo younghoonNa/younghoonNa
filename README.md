@@ -16,14 +16,24 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center">
- 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="center"> Preferred Language</p>
 
- 
+<p align="center">
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+ ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+ <br>
 </p>
+
+<h4 align="center"> 👀Interest👀</h4>
+
+<p align="center">
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+ ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)
+ ![Fiance](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=Cash App&logoColor=white)
+ <br>
+</p>
+
 ---
 
 ## Git Status
