@@ -30,15 +30,18 @@
 <h4 align="center"> 👀Interest👀</h4>
 
 <div align="center" style="text-align:center">
+  
  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>&nbsp;
  ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
  ![Fiance](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=Cash App&logoColor=white)</a>&nbsp;
  <br>
+ 
 </div>
 
 <h4 align="center">📝I've used at least once📝</h4>
 
 <div align="center" style="text-align:center">
+  
  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
@@ -46,9 +49,8 @@
  ![Android Studio](https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white)
  ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-
  <br>
+  
 </div>
 
 ---
