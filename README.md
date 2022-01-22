@@ -9,9 +9,7 @@
 
 - 🌱 Interesting on [finance](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) 
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
-
+- :octocat: SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 ---
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -62,8 +60,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=younghoonNa&theme=vue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=vue)](https://github.com/younghoonNa/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=vue)
-
-- 🌱 SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 
 ---
 
