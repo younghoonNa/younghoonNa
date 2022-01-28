@@ -12,6 +12,23 @@
 - :octocat: SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 ---
 
+## Backjoon Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
+
+<!---
+younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+---
+
+## Tistory
+
+하루의 공부내용 적어두는곳 볼 거 없음! <br>
+https://187cm.tistory.com/manage/posts/
+
+---
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Preferred Language</p>
@@ -102,20 +119,4 @@ DACON 영화 리뷰 감성분석 (30위 / 327) private, top 10% <br>
 
 ---
 
-## Backjoon Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
-
-<!---
-younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
-
-## Tistory
-
-하루의 공부내용 적어두는곳 볼 거 없음 놀러오지 마셈. <br>
-https://187cm.tistory.com/manage/posts/
-
----
 
