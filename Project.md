@@ -9,6 +9,6 @@
 - 2021.11 안드로이드 스튜디오를 활용하여 넷플릭스 앱 만들기.
 - 2021.11 R을 이용한 타이타닉 생존자 분류
 - 2021.11 LSTM, Prophet.. ect 머신러닝&딥러닝을 이용한 비트코인 가격 예측 및 자동 매매.
-- 2021.12 삼성 멀티캠퍼스 [자전거 대여 수요량 예측](https://github.com/younghoonNa/pythonDT/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_8%EC%9D%BC%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%8C%80%EC%97%AC%EB%9F%89_%EC%98%88%EC%B8%A1(%EB%82%98%EC%98%81%ED%9B%88).ipynb)
-  - Score : 37.97     
+- 2021.12 삼성 멀티캠퍼스 & Kaggle [자전거 대여 수요량 예측](https://github.com/younghoonNa/pythonDT/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_8%EC%9D%BC%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%8C%80%EC%97%AC%EB%9F%89_%EC%98%88%EC%B8%A1(%EB%82%98%EC%98%81%ED%9B%88).ipynb)
+  - Score : 39.329     
 - 
