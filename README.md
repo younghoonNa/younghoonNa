@@ -102,10 +102,18 @@ https://187cm.tistory.com/manage/posts/
 <!-- 2021년도 2학기 빅데이터 개론 과목 1등 <br>  -->
 2021년도 삼성 멀티캠퍼스 데이터 분석 56H 교육 수료 <br>
 
+<p> 
+  
 ## 💻_DACON_💻
 
-DACON 펭귄 몸무계 예측하기 (6위 / 260) private, top 4% <br>
-DACON 영화 리뷰 감성분석 (30위 / 327) private, top 10% <br>
+- `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
+  - [See more](https://github.com/younghoonNa/Penguin_Predict_DACON)
+  - Score : (6위 / 260) private, top 4%
+
+<br> 
+[그 외 데이콘 참여이력 & 성적 & 소스코드 보러가기](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md)
+  
+</p>
 
 ### ⚽⚽⚽
 2017년 서울시 교육감배 교육지원청 리그 준우승 <br>
