@@ -111,7 +111,7 @@ https://187cm.tistory.com/manage/posts/
 ## 💻💻 DACON 💻💻
 
 - `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
-  - [See more](https://github.com/younghoonNa/Penguin_Predict_DACON)
+  - [Source code](https://github.com/younghoonNa/Penguin_Predict_DACON)
   - Score : (6위 / 260) private, top 4%
 
 <br> 
