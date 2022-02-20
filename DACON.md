@@ -27,4 +27,11 @@
   
 </p>
 
-
+<p>
+  
+- `항공사 고객 만족도 예측 경진대회 (데이콘 베이직|정확도|Accuracy)`
+  - [소스코드](https://github.com/younghoonNa/DACON_Predicting-airline-customer-satisfaction.)
+  - [홈페이지](https://dacon.io/competitions/official/235871/leaderboard)
+  - Score : 22/371 (0.941) (top 10% / private)
+  
+</p>
