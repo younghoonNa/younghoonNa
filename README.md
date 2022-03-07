@@ -98,7 +98,6 @@ https://187cm.tistory.com/manage/posts/
 - 2021년도 2학기 교과목 멘토링 C/알고리즘 멘토 <br>
 - 2021년도 2학기 SW-Week R-언어 동상 <br>
 - 2021년도 2학기 23학점 평균 4.5 <br>
-- 2021년도 삼성 멀티캠퍼스 데이터 분석 56H 교육 수료 <br>
 <!-- 2021년도 2학기 빅데이터 개론 과목 1등 <br>  -->
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
   
@@ -108,11 +107,14 @@ https://187cm.tistory.com/manage/posts/
   
 <p> 
   
-## 💻💻 DACON 💻💻
+## 💻💻 Data Analysis (with Dacon & Kaggle) 💻💻
 
 - `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
   - [Source code](https://github.com/younghoonNa/Penguin_Predict_DACON)
   - Score : (6위 / 260) private, top 4%
+  
+- 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료 <br>
+- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 프로젝트 35H](https://github.com/younghoonNa/PythonDT2) 수료 <br>
 
 <br> 
   
