@@ -112,9 +112,8 @@ https://187cm.tistory.com/manage/posts/
 - `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
   - [Source code](https://github.com/younghoonNa/Penguin_Predict_DACON)
   - Score : (6위 / 260) private, top 4%
-  
 - 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료
-- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 프로젝트 35H](https://github.com/younghoonNa/PythonDT2) 수료 <br>
+- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 프로젝트 35H](https://github.com/younghoonNa/PythonDT2) 수료
 
 <br> 
   
