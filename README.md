@@ -98,6 +98,8 @@ https://187cm.tistory.com/manage/posts/
 - 2021년도 2학기 교과목 멘토링 C/알고리즘 멘토 <br>
 - 2021년도 2학기 SW-Week R-언어 동상 <br>
 - 2021년도 2학기 23학점 평균 4.5 <br>
+- 2022년도 교내 학술동아리 C.愛.랑 부회장.
+- 2022년도 교내 학술동아리 C.愛.랑 Java 멘토링 교육 진행
 <!-- 2021년도 2학기 빅데이터 개론 과목 1등 <br>  -->
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
   
