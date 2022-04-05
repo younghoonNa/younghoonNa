@@ -23,7 +23,7 @@
 - `집값 예측 경진대회 (데이콘 베이직|정형|NMAE)`
   - [소스코드](https://github.com/younghoonNa/Housing_value_DACON)
   - [홈페이지](https://dacon.io/competitions/official/235869/leaderboard#_=_)
-  - Score : 78/458 (private)
+  - Score : 73/458 (private)
   
 </p>
 
