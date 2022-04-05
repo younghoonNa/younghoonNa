@@ -35,3 +35,12 @@
   - Score : 22/371 (0.941) (top 10% / private)
   
 </p>
+
+<p>
+  
+- `전복 나이 예측 경진대회 (데이콘 베이직|정확도|NMAE)`
+  - [소스코드](https://github.com/younghoonNa/DACON_Predict_Abalone_age)
+  - [홈페이지](https://dacon.io/competitions/official/235877/overview/description)
+  - Score : 94/411 (0.149713) (private)
+  
+</p>
