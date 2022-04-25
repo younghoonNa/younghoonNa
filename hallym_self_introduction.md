@@ -1,11 +1,20 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=🐤🐥🐣&fontAlign=80&fontAlignY=30&desc=%20%20%20%20%20Hi,%20there👋👋%20I am YoungHoon%20My%20Space&color=gradient)
+# Hi I'm younghoon 😃😃
 
-<!-- ## Hi, there👋👋 Welcome My Space-->
+<img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165043250-0d7581ec-be02-4cfb-aa25-d82a9746d39f.png">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
-<!-- a Repulic of korea  -->
-:school: I'm currently studying at a university in Chuncheon.
+:smile: Hi, there, I'm younghoonNa <br>
+:school: I'm currently studying at a Hallym university in Chuncheon. <br>
+🙆 : I'm a junior majoring in BigData at Hallym Univ. <br>
+📖 Interesting on Time Series analysis and AI <br>
+⚽ My hobby is Participate [data analysis competition](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) and Play soccer <br>
+:octocat: My Git profile is [younghoonNa](https://github.com/younghoonNa) <br>
+📚 My Blog [Link](https://187cm.tistory.com/) <br>
+📧 yh07280@naver.com
 
+
+
+
+  - here my Associated Project [비트코인 예측](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-/blob/main/README.md) <br>
 
 - 🌱 Interesting on [finance](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
