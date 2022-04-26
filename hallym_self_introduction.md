@@ -9,7 +9,7 @@
 ⚽ My hobby is Participate [data analysis competition](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) and Play soccer <br>
 :octocat: My Git profile is [younghoonNa](https://github.com/younghoonNa) <br>
 📚 My Blog [Link](https://187cm.tistory.com/) <br>
-📧 yh07280@naver.com
+📧 Email [yh07280@naver.com](yh07280@naver.com)
 
 
 
