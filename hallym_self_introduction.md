@@ -7,7 +7,7 @@
 🙆 : I'm a junior majoring in BigData at Hallym Univ. <br>
 📖 Interesting on Time Series analysis and AI <br>
 ⚽ My hobby is Participate [data analysis competition](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) and Play soccer <br>
-:octocat: My Git profile is [younghoonNa](https://github.com/younghoonNa) <br>
+:octocat: My Git profile name is [younghoonNa](https://github.com/younghoonNa) <br>
 📚 My Blog [Link](https://187cm.tistory.com/) <br>
 📧 Email [yh07280@naver.com](yh07280@naver.com)
 
