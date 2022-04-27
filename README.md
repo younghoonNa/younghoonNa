@@ -65,6 +65,10 @@ https://187cm.tistory.com/manage/posts/
  ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
  <br>
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white) 
+ ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+
   
 </div>
 
