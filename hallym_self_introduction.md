@@ -42,6 +42,16 @@
 - AI Accelerator Computing Lab : YOLO 논문 읽기 및 BackPropagation 공부
 - [데이콘 인구 기반 소득 예측 대회](https://dacon.io/competitions/official/235892/overview/description) 참여중
 - 2022년 5월 6일 ~ 5월 8일 철원평화컵 한림대 소속 출전 
+- 2022년 1학기 주요 수강과목
+  |학점|구분|과목|공부내역|
+  |---|---|---|
+  |3|공통전선|영상처리 프로그래밍|[링크](https://github.com/younghoonNa/OpenCV/tree/main/Video%20processing)|
+  |3|공통전선|딥러닝 기초|[링크](https://github.com/younghoonNa/PyTorch/tree/main/Depp%20Learning)|
+  |3|공통전선|데이터 시각화|[링크](https://github.com/younghoonNa/R)|
+  |3|공통전선|데이터 베이스 시스템|[링크](https://github.com/younghoonNa/SQL)|
+  |3|공통전선|캡스톤 디자인|[링크](https://github.com/seongjiko/DeepSeat_project)|  
+  |3|공통전선|파이썬과학기초프로그래밍|[링크](https://github.com/younghoonNa/Python)|
+
 
 # 📚 자격증 
 - 정보처리기능사. 한국사능력검정시험 2급
