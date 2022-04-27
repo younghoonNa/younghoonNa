@@ -9,7 +9,7 @@
 ⚽ My hobby is Participate [data analysis competition](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) and Play soccer <br>
 :octocat: My Git profile name is [younghoonNa](https://github.com/younghoonNa) You can enjoy and See more project 😃😃 <br>
 📚 My Blog [Link](https://187cm.tistory.com/) <br>
-📧 Email [yh07280@naver.com](yh07280@naver.com) <br>
+📧 Email : [yh07280@naver.com](yh07280@naver.com) <br>
 🧑‍🤝‍🧑 I'm proceed with [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project) and [C.愛.랑 Algorithm study](https://github.com/younghoonNa/caerang-algorithm-study) <br>
 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) <br>
 💬 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
@@ -43,8 +43,8 @@
 - [데이콘 인구 기반 소득 예측 대회](https://dacon.io/competitions/official/235892/overview/description) 참여중
 - 2022년 5월 6일 ~ 5월 8일 철원평화컵 한림대 소속 출전 
 - 2022년 1학기 주요 수강과목
-  |학점|구분|과목|공부내역|
-  |---|---|---|
+  |학점|구분|과목|공부내용|
+  |---|---|---|---|
   |3|공통전선|영상처리 프로그래밍|[링크](https://github.com/younghoonNa/OpenCV/tree/main/Video%20processing)|
   |3|공통전선|딥러닝 기초|[링크](https://github.com/younghoonNa/PyTorch/tree/main/Depp%20Learning)|
   |3|공통전선|데이터 시각화|[링크](https://github.com/younghoonNa/R)|
@@ -85,7 +85,7 @@
 <br>
 <br>
 
-### 나만의 쇼핑몰 제작 (2019.06 ~ 2019.12)
+### 쇼핑몰 제작 (2019.06 ~ 2019.12)
 #### 프로젝트 한줄 소개 : 지인분이 운영하시는 온라인 스포츠 용품을 웹 사이트로 만들어 보았습니다.
 <img width = "40%" src = "https://user-images.githubusercontent.com/38518648/165459659-6b44c6a5-25bd-44c1-acbe-1359f14af569.png">
 
@@ -94,21 +94,33 @@
 #### 🛠 Tech 🛠
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
 
+<br>
+<br>
 
+### 그 외 
+#### 데이콘 경진대회 중 펭귄 몸무계 예측하기 (2021.12.27 ~ 2022.01.07)
+<img width = "70%" src = "https://user-images.githubusercontent.com/38518648/165463018-02928bf4-35f8-4855-b120-0fffa95809fb.png">
 
-
+- `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
+  - [Source code](https://github.com/younghoonNa/Penguin_Predict_DACON)
+  - Score : (6위 / 260) private
+  - [그 외 데이콘 참여이력 & 성적 & 소스코드](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md)
 
 #### 🛠 Tech 🛠
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;
-- 💻 Data Analysis (with Dacon & Kaggle)
-  - `펭귄 몸무계 예측하기(데이콘 베이직|정형|RMSE)`
-    - [Source code](https://github.com/younghoonNa/Penguin_Predict_DACON)
-    - Score : (6위 / 260) private, top 4%
-  - [그 외 데이콘 참여이력 & 성적 & 소스코드](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md)
-  - 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료
-  - 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 프로젝트 40H](https://github.com/younghoonNa/PythonDT2) 수료
-- 
+![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+<br>
+<br>
+
+# 🎤 주요 특강 
+- 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료
+- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 심화 프로젝트 40H](https://github.com/younghoonNa/PythonDT2) 수료 
+
+> 내가 AI를 입문하는데 흥미를 주었던 특강이였다. 평소에 Github에서 관심있는 내용에 Star를 찍어두고 시간날 때마다 보았는데
+내가 Star를 찍어두었던 [레포지토리](https://github.com/teddylee777/machine-learning) 를 만든 강사님께서 수업을 해주셨다.
+AI의 기초부터 딥러닝까지 경진대회 같이 score를 올리는 방식으로 진행했다. 마지막 날에 진행한 따릉이 수요 분석 대회에서
+현업자들 보다 높은 결과를 기록하며 
 
 
 
