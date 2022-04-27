@@ -50,11 +50,11 @@
 ### 비트코인 가격 예측 프로그램 (2021.06 ~ 2021.12)
 ![image](https://user-images.githubusercontent.com/38518648/165435245-8098a0cb-f2a2-4a50-af7c-e36df401849d.png)
 
-#### 프로젝트 소개 : facebook의 Prophet 모델과, RNN-LSTM을 사용한 비트코인 예측 프로그램.
+#### 프로젝트 한줄 소개 : facebook의 Prophet 모델과, RNN-LSTM을 사용한 비트코인 예측 프로그램.
 - [Github](https://github.com/younghoonNa/bitcoin-prediction-LSTM-Prophet) <br>
 ++ 웹 소켓을 이용하여 더 빠른 정보 수집 기능 구현. [Github](https://github.com/younghoonNa/Upbit_Websocket)
 #### 🛠Tech🛠 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;  ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)  ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;  ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)  ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
 
 <br>
 <br>
@@ -65,16 +65,27 @@
 ![image](https://user-images.githubusercontent.com/38518648/165435746-86cc4209-ec15-4452-8cc8-e90e19e11d16.png)
 
 
-#### 프로젝트 소개 : Flutter 및 안드로이드 스튜디오를 이용해 넷플릭스를 제작.
+#### 프로젝트 한줄 소개 : Flutter 및 안드로이드 스튜디오를 이용해 넷플릭스를 제작.
 - [Flutter link](https://github.com/younghoonNa/Netflix_Flutter)
 - [Android link](https://github.com/younghoonNa/Netflix_-android_studio-)
 
 #### 🛠 Tech 🛠
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+
+<br>
+<br>
 
 ### 나만의 쇼핑몰 제작 (2019.06 ~ 2019.12)
-#### 프로젝트 소개 : 지인분이 운영하시는 온라인 스포츠 용품을 웹 사이트로 만들어 보았습니다.
-- [Github](https://github.com/younghoonNa/Netflix_Flutter)
+#### 프로젝트 한줄 소개 : 지인분이 운영하시는 온라인 스포츠 용품을 웹 사이트로 만들어 보았습니다.
+<img width = "40%" src = "https://user-images.githubusercontent.com/38518648/165459659-6b44c6a5-25bd-44c1-acbe-1359f14af569.png">
+
+- [Github](https://github.com/younghoonNa/HTML_CSS)
+
+#### 🛠 Tech 🛠
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+
+
+
 
 
 #### 🛠 Tech 🛠
