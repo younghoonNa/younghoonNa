@@ -120,9 +120,15 @@
 > 내가 AI를 입문하는데 흥미를 주었던 특강이였다. 평소에 Github에서 관심있는 내용에 Star를 찍어두고 시간날 때마다 보았는데
 내가 Star를 찍어두었던 [레포지토리](https://github.com/teddylee777/machine-learning) 를 만든 강사님께서 수업을 해주셨다.
 AI의 기초부터 딥러닝까지 경진대회 같이 score를 올리는 방식으로 진행했다. 마지막 날에 진행한 따릉이 수요 분석 대회에서
-현업자들 보다 높은 결과를 기록하며 
+현업자들 보다 높은 결과를 기록하여 강사님께서 경진대회를 추천해주셨고 이를 바탕으로 데이콘과 같은 경진대회에 흥미를 가지면서 AI 흥미를 가지게 된 것 같다.
 
 
+# 📆 plan
+
+- 데이콘 -> Kaggle로 넘어가기.
+- YOLOv2, YOLOv3 논문 읽기
+- CS231n 강의 전부 완주하기. (현재 3개 완주)
+- 졸업 전까지 백준 알고리즘 플래티넘 도전
 
 <p align="center"> Preferred Language</p>
 <div align="center" style="text-align:center">
