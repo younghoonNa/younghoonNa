@@ -129,6 +129,8 @@ AI의 기초부터 딥러닝까지 경진대회 같이 score를 올리는 방식
 - YOLOv2, YOLOv3 논문 읽기
 - CS231n 강의 전부 완주하기. (현재 3개 완주)
 - 졸업 전까지 백준 알고리즘 플래티넘 도전
+- TOPCIP 300 점 넘기기
+- 정보처리기사
 
 <p align="center"> Preferred Language</p>
 <div align="center" style="text-align:center">
