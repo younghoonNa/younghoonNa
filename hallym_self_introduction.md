@@ -41,7 +41,7 @@
 - [C.愛.랑 Algorithm study](https://github.com/younghoonNa/caerang-algorithm-study) and [코딩 테스트 준비](https://github.com/younghoonNa/CPP) <br>
 - AI Accelerator Computing Lab : YOLO 논문 읽기 및 BackPropagation 공부
 - [데이콘 인구 기반 소득 예측 대회](https://dacon.io/competitions/official/235892/overview/description) 참여중
-- 2022년 5월 6일 ~ 5월 8일 철원평화컵 한림대 소속 출전 
+- 2022년 5월 6일 ~ 5월 8일 전국 대학생 축구대회 철원평화컵 한림대 소속 출전 
 - 2022년 1학기 주요 수강과목
   |학점|구분|과목|공부내용|
   |---|---|---|---|
