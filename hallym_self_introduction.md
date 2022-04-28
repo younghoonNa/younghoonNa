@@ -1,6 +1,6 @@
 # Hi I'm younghoon 😃😃
 
-<img width = "19.8%" src = "https://user-images.githubusercontent.com/38518648/165795213-53a81962-3b13-4f5f-a0ff-ff099780d96c.jpg"> <img width = "28%" src = "https://user-images.githubusercontent.com/38518648/165772233-f61dcc59-36d4-43b4-a667-a2589ebe082d.jpg">  <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165772514-5fb044d8-7f5c-484c-8325-1c90ecece1cb.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775842-d6c87cee-4049-4482-a791-adfbf5de225b.jpg"> 
+<img width = "19.8%" src = "https://user-images.githubusercontent.com/38518648/165795213-53a81962-3b13-4f5f-a0ff-ff099780d96c.jpg">  <img width = "17.3%" src = "https://user-images.githubusercontent.com/38518648/165799010-da6f3ade-88d6-49f9-b0d3-afa9201d3b41.jpg"> <img width = "28%" src = "https://user-images.githubusercontent.com/38518648/165772233-f61dcc59-36d4-43b4-a667-a2589ebe082d.jpg">  <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775842-d6c87cee-4049-4482-a791-adfbf5de225b.jpg"> 
 
 :smile: Hi, there, I'm younghoonNa <br>
 :school: I'm currently studying at a Hallym university in Chuncheon. <br>
@@ -26,7 +26,7 @@
 - 2018년도 Sw week 교내 동아리 전시회 부분 (스마트 홈 / 아두이노) 인기상 3등 <br>
 - 2019년도 2학기 교내 학술동아리 씨애랑 아두이노 멘토링 <br>
 - 2020.02.17 ~ 2021.08.26 5군단 5공병여단 통신병<br>
-- 2021년도 Flutter 앱 개발 참여 (경험) <br>
+- 2021년도 Flutter 앱 개발 참여
 - 2021년도 2학기 교내 학술동아리 코어(임베디드) 팀장 <br>
 - 2021년도 2학기 교내 학술동아리 [아두이노 멘토링](https://github.com/younghoonNa/Arduino) 진행 <br>
 - 2021년도 2학기 교과목 멘토링 C/알고리즘 멘토 <br>
