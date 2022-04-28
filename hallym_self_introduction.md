@@ -1,6 +1,6 @@
 # Hi I'm younghoon 😃😃
 
-<img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165043250-0d7581ec-be02-4cfb-aa25-d82a9746d39f.png">
+<img width = "28%" src = "https://user-images.githubusercontent.com/38518648/165772233-f61dcc59-36d4-43b4-a667-a2589ebe082d.jpg">  <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165772514-5fb044d8-7f5c-484c-8325-1c90ecece1cb.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775842-d6c87cee-4049-4482-a791-adfbf5de225b.jpg"> 
 
 :smile: Hi, there, I'm younghoonNa <br>
 :school: I'm currently studying at a Hallym university in Chuncheon. <br>
@@ -116,6 +116,9 @@
 # 🎤 주요 특강 
 - 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료
 - 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 심화 프로젝트 40H](https://github.com/younghoonNa/PythonDT2) 수료 
+  - 수료 후 찍은 기념 사진과 동기와 함께 강의를 들은 사진을 첨부해 보았습니다.
+<img width = "13%" src = "https://user-images.githubusercontent.com/38518648/165773304-ecd4da19-6a24-44dc-bb03-206516aaeada.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775094-0024d4bc-5bc6-4f52-809c-177a12b703e5.jpg"> 
+
 
 > AI에 흥미를 붙여준 특강이였다. 내가 Star를 찍어두며 자주 참조하던 [레포지토리](https://github.com/teddylee777/machine-learning)를 만든 강사님과 
 다른 강사님 총 두분께서 강의를 진행하셨다. AI의 기초부터 딥러닝까지 개념 설명 후 경진대회처럼 score를 올리는 방식으로 진행했다. 마지막 날에 진행한 따릉이 수요 분석 대회에서
@@ -126,26 +129,10 @@
 
 - 데이콘 -> Kaggle로 넘어가기.
 - YOLOv2, YOLOv3 논문 읽기
-- CS231n 강의 전부 완주하기. (현재 2개 완주)
+- CS231n 강의 전부 완주하기. (현재 2/16)
 - 졸업 전까지 백준 알고리즘 플래티넘 도전
 - TOPCIP 300 점 넘기기
 - 정보처리기사
-
-
-</div>
-
-<h4 align="center">📝I've used at least once📝</h4>
-
-<div align="center" style="text-align:center">
-  
- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
- <br>
-  
-</div>
-
-
-</p>
 
 <p>
   
