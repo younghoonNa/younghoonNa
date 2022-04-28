@@ -1,6 +1,6 @@
 # Hi I'm younghoon 😃😃
 
-<img width = "28%" src = "https://user-images.githubusercontent.com/38518648/165772233-f61dcc59-36d4-43b4-a667-a2589ebe082d.jpg">  <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165772514-5fb044d8-7f5c-484c-8325-1c90ecece1cb.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775842-d6c87cee-4049-4482-a791-adfbf5de225b.jpg"> 
+<img width = "19.8%" src = "https://user-images.githubusercontent.com/38518648/165795213-53a81962-3b13-4f5f-a0ff-ff099780d96c.jpg"> <img width = "28%" src = "https://user-images.githubusercontent.com/38518648/165772233-f61dcc59-36d4-43b4-a667-a2589ebe082d.jpg">  <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165772514-5fb044d8-7f5c-484c-8325-1c90ecece1cb.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775842-d6c87cee-4049-4482-a791-adfbf5de225b.jpg"> 
 
 :smile: Hi, there, I'm younghoonNa <br>
 :school: I'm currently studying at a Hallym university in Chuncheon. <br>
@@ -147,7 +147,7 @@
 - 2022년 05월 전국 대학생 축구대회 철원평화컵 한림대 소속 출전 예정<br>
 
 ## 🎤 마지막 한마디 
-> 기존 이력서 방식과 깃허브에서 사용가능한 Markdown Language의 장점을 살려서 저의 성격을 보여드릴 수 있는 이력서를 만들어 보았습니다. :smile: <br>
+> 기존 이력서 방식과 깃허브의 장점인 Markdown Language의 장점을 살려서 저의 성격을 보여드릴 수 있는 이력서를 만들어 보았습니다. <br>
 > 개발자를 준비하는 과정에서 내가 어떤 활동을 하고 있고 어떤 점이 부족한지 알게 되었습니다. 
 > 많이 부족한 저의 이력서를 읽어봐주셔서 감사합니다. 좋은 대회를 만들어주셔서 감사드리며 긴 글을 읽어주셔서 감사합니다.! 
 
