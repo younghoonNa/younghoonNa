@@ -116,7 +116,7 @@
 
 # 📢 주요 특강 
 - 2021.12.27 ~ 2022.01.05 삼성 멀티캠퍼스 [데이터 분석 심화과정 56H](https://github.com/younghoonNa/pythonDT) 수료
-- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 머신러닝 심화 프로젝트 40H](https://github.com/younghoonNa/PythonDT2) 수료 
+- 2022.02.14 ~ 2022.02.18 삼성 멀티캠퍼스 [파이썬을 활용한 ML 심화 프로젝트 40H](https://github.com/younghoonNa/PythonDT2) 수료 
   - 수료 후 찍은 기념 사진 및 특강 중 동기와 함께 강의를 들은 사진을 첨부해 보았습니다.
 
 <img width = "13%" src = "https://user-images.githubusercontent.com/38518648/165773304-ecd4da19-6a24-44dc-bb03-206516aaeada.jpg"> <img width = "20%" src = "https://user-images.githubusercontent.com/38518648/165775094-0024d4bc-5bc6-4f52-809c-177a12b703e5.jpg"> 
