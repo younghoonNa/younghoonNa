@@ -44,3 +44,14 @@
   - Score : 94/411 (0.149713) (private)
   
 </p>
+
+<p>
+  
+- `인구 데이터 기반 소득 예측 경진대회 (데이콘 베이직|정형|Accuracy)`
+  - 소스코드
+  - [홈페이지](https://dacon.io/competitions/official/235892/overview/description)
+  - Score : ~ 참여중
+  
+</p>
+
+
