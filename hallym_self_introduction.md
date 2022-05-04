@@ -12,7 +12,8 @@
 📧 Email : [yh07280@naver.com](yh07280@naver.com) <br>
 🧑‍🤝‍🧑 I'm proceed with [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project) and [C.愛.랑 Algorithm study](https://github.com/younghoonNa/caerang-algorithm-study) <br>
 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) <br>
-💬 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
+💬 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa%2FyounghoonNa%2Fblob%2Fmain%2Fhallym_self_introduction.md&count_bg=%2372F8FF&title_bg=%23555555&icon=bitrise.svg&icon_color=%23FFFFFF&title=Today+visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ```
   안녕하세요 AI 개발자를 꿈꾸는 빅데이터 전공 18학번 나영훈입니다. 저는 케글 및 데이콘에서 데이터를 분석하는 것이 취미입니다.
