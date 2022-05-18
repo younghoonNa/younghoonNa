@@ -11,6 +11,11 @@
 - :octocat: SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 ---
 
+
+# ⛷ 현재 진행중인 활동
+- [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project)
+- 
+
 ## Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
 
