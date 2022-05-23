@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ## Tistory
 
 하루의 공부내용 중 유용한 정보가 생기면 적어두는곳! <br>
-https://187cm.tistory.com/manage/posts/
+https://187cm.tistory.com
 
 ---
 
