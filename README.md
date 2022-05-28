@@ -14,7 +14,7 @@
 
 # ⛷ 현재 진행중인 활동
 - [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project)
-- 
+- 영상처리 프로그래밍 - 영상처리를 통한 비트코인 자동매수
 
 ## Backjoon Algorithm
 
