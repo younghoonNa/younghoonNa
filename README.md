@@ -110,6 +110,7 @@ https://187cm.tistory.com
 - 2022년도 교내 학술동아리 C.愛.랑 부회장.
 - 2022년도 교내 학술동아리 C.愛.랑 Java 멘토링 교육 진행
 - 2022년도 교내 Git-hub 이력서 해커톤 금상 [링크](https://github.com/younghoonNa/younghoonNa/blob/main/hallym_self_introduction.md)
+- 2022년도 1학기 교내 SW 캡스톤 디자인 경진대회 [DeepSeat](https://github.com/seongjiko/DeepSeat_project) 금상 
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
   
 </p>
