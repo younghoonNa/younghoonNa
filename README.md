@@ -109,7 +109,7 @@ https://187cm.tistory.com
 - 2021년도 2학기 23학점 평균 4.5 <br>
 - 2022년도 교내 학술동아리 C.愛.랑 부회장.
 - 2022년도 교내 학술동아리 C.愛.랑 Java 멘토링 교육 진행
-- 2022년도 교내 Git-hub 이력서 해커톤 금상 [링크](https://github.com/younghoonNa/younghoonNa/blob/main/hallym_self_introduction.md)
+- 2022년도 교내 [Git-hub 이력서 해커톤](https://github.com/younghoonNa/younghoonNa/blob/main/hallym_self_introduction.md) 금상
 - 2022년도 1학기 교내 SW 캡스톤 디자인 경진대회 [DeepSeat](https://github.com/seongjiko/DeepSeat_project) 금상 
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
   
@@ -145,7 +145,7 @@ https://187cm.tistory.com
 - 2021년 KUSF 전국 대학생 클럽챔피언십 출전. <br>
 - 2018 ~ 2022 소프트웨어중심대학 운동동아리 일레븐 부원 <br>
 - 2021 ~ 2022 한림대학교 중앙동아리 키커 부원 <br>
-- 2022 철원평화컵 한림대 소속 출전 16강
+- 2022.05 철원평화컵 한림대 소속 출전 16강
   
 ## ⚾⚾⚾ 
   
