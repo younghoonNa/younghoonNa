@@ -15,7 +15,7 @@
 - [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project)
 - 영상처리 프로그래밍 - 영상처리를 통한 비트코인 자동매수
 - 데이터 시각화 - 데이콘, 탄소중립을 위한 기후기술 정보 시각화 경진대회 참여
-- 
+- Kaggle 
 
 ## Backjoon Algorithm
 
