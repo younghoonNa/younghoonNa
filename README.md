@@ -12,9 +12,9 @@
 ---
 
 # ⛷ 현재 진행중인 활동
-- [CapstonDesign Project](https://github.com/seongjiko/DeepSeat_project)
-- 영상처리 프로그래밍 - 영상처리를 통한 비트코인 자동매수
-- 데이터 시각화 - 데이콘, 탄소중립을 위한 기후기술 정보 시각화 경진대회 참여
+- 배리어 프리 앱개발 공모전
+- 트레이딩 봇 만들기 프로젝트
+- 머신러닝 특강 준
 - [Kaggle](https://www.kaggle.com/competitions/2022-deep-learning-basics-challenge/overview)
 
 ## Backjoon Algorithm
