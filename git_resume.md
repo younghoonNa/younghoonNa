@@ -2,19 +2,27 @@
 
 ## 📚📚 경력&경험📚📚
 - 2018년도 Sw week 교내 동아리 전시회 부분 (스마트 홈 / 아두이노) 인기상 3등 <br>
-- 2019년도 2학기 교내 학술동아리 씨애랑 아두이노 멘토링 <br>
 - 2020 ~ 2021 5공병여단 통신병<br>
-- 2021년도 Flutter 앱 개발 참여 (경험) <br>
 - 2021년도 2학기 교내 학술동아리 코어(임베디드) 팀장 <br>
-- 2021년도 2학기 교내 학술동아리 아두이노 멘토링 진헹 <br>
-- 2021년도 2학기 교과목 멘토링 C/알고리즘 멘토 <br>
 - 2021년도 2학기 SW-Week R-언어 동상 <br>
 - 2021년도 2학기 23학점 평균 4.5 <br>
 - 2022년도 교내 학술동아리 C.愛.랑 부회장.
-- 2022년도 교내 학술동아리 C.愛.랑 신입생 Java 멘토링 교육 진행
 - 2022년도 교내 [Git-hub 이력서 해커톤](https://github.com/younghoonNa/younghoonNa/blob/main/hallym_self_introduction.md) 금상
 - 2022년도 1학기 교내 SW 캡스톤 디자인 경진대회 [DeepSeat](https://github.com/seongjiko/DeepSeat_project) 금상 
+- 2022년도 1학기 19학점 평균 4.5 <br>
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
+  
+- 멘토링
+  - 2019-02 : 아두이노
+  - 2021-02 : 아두이노
+  - 2021-02 : C
+  - 2021-02 : 알고리즘
+  - 2022-01 : Java
+  - 2022-하계 : Machine Learning
+ 
+- 앱 개발
+  - 2021년도 Flutter 앱 개발 참여 (경험) 
+  - 2022년도 배리어프리 앱 개발 공모전 면접 심사 통과
   
 </p>
 
