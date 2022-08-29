@@ -12,10 +12,9 @@
 ---
 
 # ⛷ 현재 진행중인 활동
-- 배리어 프리 앱개발 공모전 본선 준비
-- 트레이딩 봇 만들기 프로젝트 (2022.06 ~ 2022.08)
+- 데이콘 SW 중심대학 경진대회 본선준비
+- 트레이딩 봇 만들기 프로젝트 (2022.06 ~ 2022.12)
 - [머신러닝 멘토링](https://github.com/younghoonNa/ML)
-- [Kaggle spaceship titanic](https://www.kaggle.com/c/spaceship-titanic)
 - AI Accelerator Computing LAB 논문 세미나
 
 ## Backjoon Algorithm
