@@ -9,7 +9,9 @@
 - 2022년도 교내 학술동아리 C.愛.랑 부회장.
 - 2022년도 교내 [Git-hub 이력서 해커톤](https://github.com/younghoonNa/younghoonNa/blob/main/hallym_self_introduction.md) 금상
 - 2022년도 1학기 교내 SW 캡스톤 디자인 경진대회 [DeepSeat](https://github.com/seongjiko/DeepSeat_project) 금상 
-- 2022년도 1학기 19학점 평균 4.5 <br>
+- 2022년도 1학기 19학점 평균 4.5 <br> 
+- 2022년도 제 9회 대한민국 SW경진대회 대상 (과학기술정보통신부 장관상) <br>
+
 - 지금까지 진행한 [프로젝트](https://github.com/younghoonNa/younghoonNa/blob/main/Project.md)
   
 - 멘토링
@@ -22,7 +24,7 @@
  
 - 앱 개발
   - 2021년도 Flutter 앱 개발 참여 (경험) 
-  - 2022년도 배리어프리 앱 개발 공모전 면접 심사 통과
+  - 2022년도 배리어프리 앱 개발 공모전 예선 면접 심사 통과
   
 </p>
 
