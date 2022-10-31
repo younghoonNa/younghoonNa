@@ -5,7 +5,7 @@
 :smile: Hi, there, I'm younghoonNa <br>
 :school: I'm currently studying at a Hallym university in Chuncheon. <br>
 🙆 I'm a junior majoring in BigData at Hallym Univ. <br>
-🌱 Interesting on Time Series analysis and AI <br>
+🌱 Interesting on Time Series data analysis and AI <br>
 ⚽ My hobby is Participate [data analysis competition](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) and Play soccer <br>
 :octocat: My Git profile name is [younghoonNa](https://github.com/younghoonNa) You can enjoy and See more project 😃😃 <br>
 📚 My Blog [Link](https://187cm.tistory.com/) <br>
