@@ -5,7 +5,7 @@
 <!-- a Repulic of korea  -->
 :school: I'm currently studying at a university in Chuncheon.
 
-- 🌱 Interesting on [finance](https://github.com/younghoonNa/Bitcoin-Prediction-with-LSTM-Svm-Prophet-..ect-) and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
+- 🌱 Interesting on [AI], [Computer Vision] and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
 - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) 
 - :octocat: SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) 
 - 📖  My [Tistory](https://187cm.tistory.com)
