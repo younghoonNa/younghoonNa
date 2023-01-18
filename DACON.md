@@ -46,12 +46,37 @@
 </p>
 
 <p>
+
+- `유전체 정보 품종 분류 AI 경진대회 (알고리즘|유전체|분류|Macro F1 Score)`
+  - [소스코드](https://github.com/younghoonNa/Dacon_DNA_Sequencing)
+  - [홈페이지](https://dacon.io/competitions/official/236035/leaderboard)
+  - Score : 69/716 (0.9686) (top 10% / private)
   
-- `인구 데이터 기반 소득 예측 경진대회 (데이콘 베이직|정형|Accuracy)`
-  - 소스코드
-  - [홈페이지](https://dacon.io/competitions/official/235892/overview/description)
-  - Score : ~ 참여중
+</p>
+
+<p>
+
+- `SW중심대학 공동 AI 경진대회 ❮예선❯ (SW중심대학|예선|심리성향|AUC)`
+  - [소스코드](https://github.com/younghoonNa/Dacon_Prediction-of-Predict-Machiavellianism-Tendency)
+  - Score : 9/192 (0.90267) (top 10% / private)
+  
+</p>
+
+<p>
+
+- `SW중심대학 공동 AI 경진대회 <본선> (SW중심대학|본선|OCR|Accuracy)`
+  - [소스코드](https://github.com/younghoonNa/customocr)
+  - Score : 5/77 (0.94161) (top 10% / private)
+  
+</p>
+  
+<p>
+
+- `2023 교원그룹 AI 챌린지 <예선> (알고리즘 | 예선 | 채용 | 광학문자인식 | Accuracy)`
+  - [홈페이지](https://dacon.io/competitions/official/236042/leaderboard)
+  - Score : 33/430 (0.85828) (top 10% / private)
   
 </p>
 
 
+  
