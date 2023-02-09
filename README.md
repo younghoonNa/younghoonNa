@@ -17,8 +17,11 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories)
 - 📖  My [Tistory](https://187cm.tistory.com)
 - Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
-- The 9th Republic of Korea SW Convergence Hackathon Grand Prize (Minister of Science and Information and Communication Technology Award)
-- Joint AI Competition (Dacon) at the SW-focused University, 9th Encouragement Prize (Chairman's Prize from the SW-focused University Council)
+- The 9th Republic of Korea SW Convergence Hackathon Grand Prize <br>
+  (Minister of Science and Information and Communication Technology Award)
+- Joint AI Competition (Dacon) at the SW-focused University, 9th Encouragement Prize <br>
+  (Chairman's Prize from the SW-focused University Council)
+- (Dacon) Analysis penguin weight 6th. 
 - Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraudate Student Paper Prize
 ---
 
