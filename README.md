@@ -19,7 +19,9 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
 - Joint AI Competition (Dacon) at the SW-focused University, 9th Encouragement Prize <br>
   (Chairman's Prize from the SW-focused University Council)
 - (Dacon) Analysis penguin weight 6th. 
+- SW Mentoring (C, Algorithm, Python, Machine Learning)
 - Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraudate Student Paper Prize
+- Autumn 2021, Spring 2022 GPA(4.5/4.5) // Autumn 2022 GPA(4.4/4.5)
 ---
 
 <!--
