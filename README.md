@@ -11,11 +11,13 @@
 
 Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
-- 📖  My [Tistory](https://187cm.tistory.com)
+- 📖  My DeepLearning Post [Tistory](https://187cm.tistory.com)
 - Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
-- The 9th Republic of Korea SW Convergence Hackathon Grand Prize <br>
+- The 9th Republic of Korea SW Convergence Hackathon Grand Prize 🏆 <br>
   (Minister of Science and Information and Communication Technology Award)
+- SW-focused University Joint Hackathon 2023 Grand Prize 🏆 <br>
+  (Director of Information and Communication Planning and Evaluation Award)
 - Joint AI Competition (Dacon) at the SW-focused University, 9th Encouragement Prize <br>
   (Chairman's Prize from the SW-focused University Council)
 - (Dacon) Analysis penguin weight 6th. 
