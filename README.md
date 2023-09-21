@@ -23,8 +23,6 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
   5th Private score and Encouragement Prize 🥉 (Chairman's Prize from the SW-focused University Council)
 - Joint AI Competition (Dacon) at the SW-focused University 2023 Satellite Image Segmentation task <br>
   7th Encouragement Prize 🥉 (Chairman's Prize from the SW-focused University Council)
-- (Dacon) Analysis penguin weight 6th. 
-- SW Mentoring (C, Algorithm, Python, Machine Learning)
 - Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraudate Student Paper Prize
 - Autumn 2021 (23 credits), Spring 2022 (18 credits) GPA(4.5/4.5) // Autumn 2022 GPA(4.4/4.5)
 ---
@@ -100,4 +98,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 경력 및 경험
 [나영훈 지금까지 뭐하고 살았나](https://github.com/younghoonNa/younghoonNa/blob/main/git_resume.md)
+
+- (Dacon) Analysis penguin weight 6th. 
+- SW Mentoring (C, Algorithm, Python, Machine Learning)
+
 -->
