@@ -14,7 +14,9 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
 - Now, I'm participating in  ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/e4736d60-8ae9-490f-b72b-237bb1793661) & Joint Journal club in Ottawa Univ ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/df0175e2-fb28-44c6-91a8-dcc10d1459d8)
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
-- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [Tistory Here!](https://187cm.tistory.com)
+- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://187cm.tistory.com)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
+[![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
+
 - The 9th Republic of Korea SW Convergence Hackathon Grand Prize 🏆 <br>
   (Minister of Science and Information and Communication Technology Award)
 - SW-focused University Joint Hackathon 2023 Grand Prize 🥇 <br>
@@ -90,11 +92,17 @@ You can click the Preview link to take a look at your changes.
 ## Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younghoonNa&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=187cm&theme=tistory)](https://187cm.tistory.com)
+[![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
+
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=vue)](https://github.com/younghoonNa/github-readme-stats) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=vue) 
 
 [그 외 깃허브 Status](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md)
+
+[Tistory Here!](https://187cm.tistory.com) 
 
 ## 경력 및 경험
 [나영훈 지금까지 뭐하고 살았나](https://github.com/younghoonNa/younghoonNa/blob/main/git_resume.md)
