@@ -14,7 +14,8 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
 - Now, I'm participating in  ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/e4736d60-8ae9-490f-b72b-237bb1793661) & Joint Journal club in Ottawa Univ ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/df0175e2-fb28-44c6-91a8-dcc10d1459d8)
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
-- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://187cm.tistory.com)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
+- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://187cm.tistory.com) <br>
+Additionally, I am the author of a publication on GopenAI featured on Medium [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
 [![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
 
 - The 9th Republic of Korea SW Convergence Hackathon Grand Prize 🏆 <br>
