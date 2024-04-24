@@ -18,10 +18,8 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
 Additionally, I am the author of a publication on GopenAI featured on Medium [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
 [![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
 
-- The 9th Republic of Korea SW Convergence Hackathon Grand Prize 🏆 <br>
-  (Minister of Science and Information and Communication Technology Award)
-- SW-focused University Joint Hackathon 2023 Grand Prize 🥇 <br>
-  (Director of Information and Communication Planning and Evaluation Award)
+- Minister of Science and Information and Communication Technology Award 🏆 <br>
+- IITP (Information and Communications Technology Planning and Evaluation Institute) Director’s Award 🥇 <br>
 - ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp 2023
 
 <!--
