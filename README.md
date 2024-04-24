@@ -10,7 +10,7 @@
 </p>
 
 Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) you can contact using
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
 - Now, I'm participating in Joint Journal club in Ottawa Univ ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/df0175e2-fb28-44c6-91a8-dcc10d1459d8)
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
