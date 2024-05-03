@@ -11,13 +11,9 @@
 
 Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) you can contact using
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com)
-- Now, I'm participating in Joint Journal club in Ottawa Univ ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/df0175e2-fb28-44c6-91a8-dcc10d1459d8)
+
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md) 
-- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://187cm.tistory.com) <br>
-Additionally, I am the author of a publication on GopenAI featured on Medium [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
-[![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
-
 - Minister of Science and Information and Communication Technology Award 🏆 <br>
 - IITP (Information and Communications Technology Planning and Evaluation Institute) Director’s Award 🥇 <br>
 - ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp 2023
@@ -37,6 +33,12 @@ Additionally, I am the author of a publication on GopenAI featured on Medium [![
 - 트레이딩 봇 만들기 프로젝트 (2022.06 ~ 2022.12)
 - AI Accelerator Computing LAB 논문 세미나
 
+- 📖 My Deep Learning posts and summarized Journal Club papers can be found on [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://187cm.tistory.com) <br>
+Additionally, I am the author of a publication on GopenAI featured on Medium [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nayounghoon0223) 
+[![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
+
+- Now, I'm participating in Joint Journal club in Ottawa Univ ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/df0175e2-fb28-44c6-91a8-dcc10d1459d8)
+
 younghoonNa/younghoonNa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -55,6 +57,8 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
+<!-- 
+
 <h4 align="center"> 👀Interest👀</h4>
 
 <div align="center" style="text-align:center">
@@ -66,7 +70,7 @@ You can click the Preview link to take a look at your changes.
  
 </div>
 
-<!-- 
+
 <h4 align="center">📝I've used at least once📝</h4>
 
 <div align="center" style="text-align:center">
@@ -84,19 +88,21 @@ You can click the Preview link to take a look at your changes.
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white) 
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
-
-
 </div>
--->
-
----
-
 
 ## Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younghoonNa&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh07282828)](https://solved.ac/yh07282828/)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=187cm&theme=tistory)](https://187cm.tistory.com)
 [![Will's Medium Post](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=nayounghoon0223&limit=10)](https://medium.com/@nayounghoon0223)
+
+
+-->
+
+---
+
+
+
 
 
 
