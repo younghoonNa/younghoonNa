@@ -13,7 +13,9 @@
 Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) you can contact me using nayounghoon0223@gmail.com or yh0728@snu.ac.kr
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md)
-- State of the art Accuray and F1 score Using single channel EEG in SleepEDF and SHHS (Sleep Heart Health Study) datasets.
+- State-of-the-art Accuray and F1 score Using single channel EEG in SleepEDF and SHHS (Sleep Heart Health Study) datasets.
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs-single-channel)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs-single-channel?p=mc2sleepnet-multi-modal-cross-masking-with)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs?p=mc2sleepnet-multi-modal-cross-masking-with)
 - Minister of Science and Information and Communication Technology Award 🏆 x2 <be>
 - IITP (Information and Communications Technology Planning and Evaluation Institute) Director’s Award 🥇 <br>
 - ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp 2023
@@ -23,7 +25,7 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
   5th Private score and Encouragement Prize 🥉 (Chairman's Prize from the SW-focused University Council)
 - Joint AI Competition (Dacon) at the SW-focused University 2023 Satellite Image Segmentation task <br>
   7th Encouragement Prize 🥉 (Chairman's Prize from the SW-focused University Council)
-<!-- Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraudate Student Paper Prize-->
+<!-- Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraduate Student Paper Prize-->
 <!-- Autumn 2021 (23 credits), Spring 2022 (18 credits) GPA(4.5/4.5) // Autumn 2022 GPA(4.4/4.5) 
 -->
 ---
