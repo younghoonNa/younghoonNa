@@ -14,8 +14,7 @@ Hi, there, I'm [younghoonNa](https://github.com/younghoonNa?tab=repositories) [!
 
 - 🌱 Interesting on [AI](), [Computer Vision]() and [Data analysis](https://github.com/younghoonNa/younghoonNa/blob/main/DACON.md)
 - State-of-the-art Accuray and F1 score Using single channel EEG in SleepEDF and SHHS (Sleep Heart Health Study) datasets.
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs-single-channel)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs-single-channel?p=mc2sleepnet-multi-modal-cross-masking-with)
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs?p=mc2sleepnet-multi-modal-cross-masking-with)
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.17470-b31b1b.svg)](https://arxiv.org/abs/2502.17470) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs-single-channel)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs-single-channel?p=mc2sleepnet-multi-modal-cross-masking-with) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs?p=mc2sleepnet-multi-modal-cross-masking-with)
 - Minister of Science and Information and Communication Technology Award 🏆 x2 <be>
 - IITP (Information and Communications Technology Planning and Evaluation Institute) Director’s Award 🥇 <br>
 - ![image](https://github.com/younghoonNa/younghoonNa/assets/38518648/c42f8284-8744-49ea-a9a7-d2436475b63e) Machine Learning BootCamp 2023
