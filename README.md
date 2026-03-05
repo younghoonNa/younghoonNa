@@ -27,4 +27,5 @@ I am a Ph.D. student at **Seoul National University College of Medicine (SNUCM)*
 - **President of Seoul National University Hospital (SNUH) Award** 🏆
 - **Minister of Science and ICT Award** 🏆 (x2)
 - **IITP Director’s Award** 🥇
+- **Best Poster Award – Korean Society of Sleep Research (KSSR)** 📄
 - **Google Machine Learning BootCamp 2023** Graduate
