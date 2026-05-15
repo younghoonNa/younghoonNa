@@ -18,11 +18,7 @@ I am a Ph.D. student at **Seoul National University College of Medicine (SNUCM)*
 - [![arXiv](https://img.shields.io/badge/arXiv-2602.07628-b31b1b.svg?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.07628) Universal Sleep Foundation Model (SleepMaMi, ICML 2026 poster)
 
 **Sleep Data Analysis**
-- [![JSR](https://img.shields.io/badge/Journal_of_Sleep_Research-e70264-005581.svg?style=flat-square)](https://doi.org/10.1111/jsr.70264
-        
-        
-        
-        ) Refining SDB Annotations across Public Datasets
+- [![JSR](https://img.shields.io/badge/Journal_of_Sleep_Research-e70264-005581.svg?style=flat-square)](https://doi.org/10.1111/jsr.70264) Refining SDB Annotations across Public Datasets
 
 ---
 
